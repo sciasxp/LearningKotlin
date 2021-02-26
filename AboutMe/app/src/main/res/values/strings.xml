@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Luciano Nunes</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Systems Analyst specialized in Project Management.\nMy last development experiences were focused on developing mobile applications (iPhone | iPad) in the company Tap4 mobile.\n\nI\'ve previously worked with ERP systems in Gradiente.\n\nEmbedded software for TV sets in Samsung.\n\nDevelopment of drivers for ARM devices running Windows CE in Instituto inTera.\n\nPartner in Tap4 where I served as Director of Technology, created mobile solutions focused on Android and iOS and I developed and architect applications for those platforms.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
